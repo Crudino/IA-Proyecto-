@@ -5,4 +5,5 @@ Proyecto de Modelos I - Intro a la Inteligencia artificial
 |Nombre|Cédula|Carrera|Usuario de Github|
 
 |Caroline Rudiño Villegas|1038120502|Ing. Industrial|[Crudino]([(https://github.com/Crudino)|
-|Gerardo Esteban Castillo Morales|1007338607| Ing. de Sistemas|[GerarC](https://github.com/GerarC)|
+|Juan Pablo Puerta Carvajal|1152222776| Ing. Industrial|[GerarC](https://github.com/GerarC)|
+|José Daniel Vélez Muñetón||1040756820|Ing. Industrial||[
